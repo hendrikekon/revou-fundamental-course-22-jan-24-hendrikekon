@@ -81,6 +81,7 @@ body{
         justify-content: space-around;
         margin-top: 20px;
         flex-direction: column;
+        width: 75%;
     }
     
     .item-content{
@@ -191,6 +192,7 @@ body{
         padding-top: 50px;
         width: 300px;
         margin-top: 20px;
+        width: 25%;
     }
     
     .package{
